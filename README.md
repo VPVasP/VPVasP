@@ -7,7 +7,7 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="50" height="50" />](https://twitter.com/VPVasP)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub Logo" width="50" height="50" />](https://github.com/VPVasP)
 
-## Programming Languages, Tools, and Engines:
+## Programming Languages, Tools and Engines:
 [<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity Logo" width="50" height="50" />](https://unity.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine Logo" width="50" height="50" />](https://www.unrealengine.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" height="50" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
