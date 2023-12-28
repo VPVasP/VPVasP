@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am  VPVasP
 
-- 🎓 I’m currently learning BSc (HONS)Computer Programming and Game Development at SAE Institute Athens. 
+- 🎓 I’m currently studying BSc (HONS)Computer Programming and Game Development at SAE Institute Athens. 
 - 💻 I’m currently working on multiple projects of my own.
 - 👨‍💻Proficient in C# and well versed at the Unity API.
 - 🚀Fluent at C++ and the Unreal Game Engine.
