@@ -2,10 +2,10 @@
 
 - 🎓 I’m currently learning BSc (HONS)Computer Programming and Game Development at SAE Institute Athens. 
 - 💻 I’m currently working on multiple projects of my own.
-
-## My Socials:
-[<img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="50" height="50" />](https://twitter.com/VPVasP)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub Logo" width="50" height="50" />](https://github.com/VPVasP)
+- 👨‍💻Proficient in C# and well versed at the Unity API.
+- 🚀Fluent at C++ and the Unreal Game Engine.
+- 🎮A developer specializing in Unity Game Engine.
+- 💡 Highly skilled at designing fundamental mechanics for video games.
 
 ## Programming Languages, Tools and Engines:
 [<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity Logo" width="50" height="50" />](https://unity.com/)
