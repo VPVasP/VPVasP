@@ -1,6 +1,6 @@
 # Hi there 👋, I'm VPVasP
 
-- 🎓 I’m currently learning BSc (HONS)Computer Programming and Game Development at SAE INSTITUTE Athens. 
+- 🎓 I’m currently learning BSc (HONS)Computer Programming and Game Development at SAE Institute Athens. 
 - 💻 I’m currently working on multiple projects of my own.
 
 ## My Socials:
