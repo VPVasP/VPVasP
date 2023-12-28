@@ -1,4 +1,4 @@
-# Hi there 👋, I'm VPVasP
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am  VPVasP
 
 - 🎓 I’m currently learning BSc (HONS)Computer Programming and Game Development at SAE Institute Athens. 
 - 💻 I’m currently working on multiple projects of my own.
