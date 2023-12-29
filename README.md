@@ -6,7 +6,7 @@
 - 🚀Fluent at C++ and the Unreal Game Engine.
 - 🎮A developer specializing in Unity Game Engine.
 - 💡 Highly skilled at designing fundamental mechanics for video games.
-
+- 📍Athens-Greece.
 ## Programming Languages, Tools and Engines:
 [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" height="50" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C# Logo" width="50" height="50" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
