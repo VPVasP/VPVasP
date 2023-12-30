@@ -4,7 +4,7 @@
         self.role = "Programmer-Games Developer"
         self.spokenLanguage = ["Greek", "English"]
 
-    def say_hi(self):
+    def say_something(self):
         print("Thanks for checking my profile!")
 - 🎓 I’m currently studying BSc (HONS)Computer Programming and Game Development at SAE Institute Athens. 
 - 💻 I’m currently working on multiple projects of my own.
