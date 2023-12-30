@@ -5,7 +5,7 @@
         self.spokenLanguage = ["Greek", "English"]
 
     def say_something(self):
-        print("Thanks for checking my profile!")
+        print("Thanks for checking my Github Page!")
 - 🎓 I’m currently studying BSc (HONS)Computer Programming and Game Development at SAE Institute Athens. 
 - 💻 I’m currently working on multiple projects of my own.
 - 👨‍💻Proficient in C# and well versed at the Unity API.
