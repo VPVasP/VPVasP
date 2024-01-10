@@ -6,7 +6,7 @@
 
     def say_something(self):
         print("Thanks for checking my Github Page!")
-- 👋 I'm VP, a third year student at SAE Institute Athens, studying in Computer Programming and Game Development. i am a passionate games developer with the task of creating great experiences, and I excel as a Unity Game Developer with a strong knowledge of C#. Beyond Unity, my skills includes good knowledge in C++, Python, HTML5, Unreal Engine, and Git. I am currently based in Athens, Greece.
+- 👋 I'm VP, a third year student at SAE Institute Athens, studying in Computer Programming and Game Development. I am a passionate games developer with the task of creating great experiences, and I excel as a Unity Game Developer with a strong knowledge of C#. Beyond Unity, my skills includes good knowledge in C++, Python, HTML5, Unreal Engine, and Git. I am currently based in Athens, Greece.
 - 🎓 I’m currently studying BSc (HONS)Computer Programming and Game Development at SAE Institute Athens. 
 - 💻 I’m currently working on multiple projects of my own.
 - 👨‍💻Proficient in C# and well versed at the Unity API.
