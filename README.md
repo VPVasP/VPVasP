@@ -10,7 +10,7 @@
 - 🎓 I’m currently studying BSc (HONS)Computer Programming and Game Development at SAE Institute Athens. 
 - 💻 I’m currently working on multiple projects of my own.
 - 👨‍💻Proficient in C#(WPF, and well versed at the Unity API.
-- 🚀Fluent at C++,Python,HTML5,C#(Console,WPF) and the Unreal Game Engine.
+- 🚀Fluent at C++,Python,HTML5,C#(Console,WPF),XAML and the Unreal Game Engine.
 - 🎮A developer specializing in Unity Game Engine.
 - 💡 Highly skilled at designing fundamental mechanics for video games.
 - 📍Athens-Greece.
