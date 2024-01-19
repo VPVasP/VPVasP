@@ -9,7 +9,7 @@
 - 👋 I'm VP, a third year student at SAE Institute Athens, studying Computer Programming and Game Development. I am a passionate games developer with the task of creating great experiences, and I excel as a Unity Game Developer with a strong knowledge of C#. Beyond Unity, my skills includes good knowledge in C++, Python, HTML5, Unreal Engine, and Git. I am currently based in Athens, Greece.
 - 🎓 I’m currently studying BSc (HONS)Computer Programming and Game Development at SAE Institute Athens. 
 - 💻 I’m currently working on multiple projects of my own.
-- 👨‍💻Proficient in C#(WPF, and well versed at the Unity API.
+- 👨‍💻Proficient in C#(Console,WPF, and well versed at the Unity API.
 - 🚀Fluent at C++,Python,HTML5,C#(Console,WPF),XAML,XML,JSON and the Unreal Game Engine.
 - 🎮A developer specializing in Unity Game Engine.
 - 💡 Highly skilled at designing fundamental mechanics for video games.
