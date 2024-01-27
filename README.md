@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am  VPVasP
     def __init__(self):
         self.name = "VPVasP"
-        self.role = "Programmer-Games Developer"
+        self.role = "Software Engineer-Games Developer-Web Developer"
         self.spokenLanguage = ["Greek", "English"]
 
     def say_something(self):
