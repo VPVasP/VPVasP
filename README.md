@@ -27,7 +27,7 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C# Logo" width="50" height="50" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" width="50" height="50" />](https://isocpp.org/)
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity Logo" width="50" height="50" />
+<img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="Unity Logo" width="50" height="50" />
 <img src="https://img.icons8.com/color/452/unreal-engine.png" alt="Unreal Engine Logo" width="50" height="50" />
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50" />](https://git-scm.com/)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VPVasP&show_icons=true&locale=en&layout=compact" alt="VPVasP" /></p>
