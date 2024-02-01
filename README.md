@@ -1,26 +1,29 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am  VPVasP
     def __init__(self):
         self.name = "VPVasP"
-        self.role = "Software Engineer-Games Developer-Web Developer"
+        self.role = "Software,Games,Web Developer"
         self.spokenLanguage = ["Greek", "English"]
+        self.location ="Athens,Greece"      
+        def say_something(self):
+        print("Thanks for checking my Github Profile!")
+👋 I'm Vasilis, a Third year student at SAE Institute Athens studying for a Bachelor of Science with Honors in Computer Programming and Game Development. I am a passionate Software,Games and Web Developer based in Athens, Greece.
+## 🎓Education
 
-    def say_something(self):
-        print("Thanks for checking my Github Page!")
-- 👋 I'm VP, a third year student at SAE Institute Athens studying for a Bachelor of Science with Honors in Computer Programming and Game Development. I am a passionate games developer and software engineer with a strong knowledge of C# and the Unity Game Engine. Beyond Unity, my skills includes good knowledge in C++, Python, HTML5, Unreal Engine, and Git. I am currently based in Athens, Greece.
-- 🎓 I’m currently studying BSc (HONS)Computer Programming and Game Development at SAE Institute Athens. 
-- 💻 I’m currently working on multiple projects of my own.
-- 👨‍💻Proficient in C#(Console,WPF, and well versed at the Unity API.
-- 🚀Fluent at C++,Python,HTML5,C#(Console,WPF),XAML,XML,JSON and the Unreal Game Engine.
-- 🎮A developer specializing in Unity Game Engine.
-- 💡 Highly skilled at designing fundamental mechanics for video games.
-- 📍Athens-Greece.
+- Currently studying BSc (HONS) Computer Programming and Game Development at SAE Institute Athens.
+
+## 💻Skills
+
+- Proficient in C#(Console,WPF, and well versed at the Unity API.
+- Fluent in C++, Python, HTML5, XAML, XML, JSON, and the Unreal Game Engine.
+- Highly skilled at designing fundamental mechanics for video games.
 
 <h3 align="left">Get in touch:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/vasilhs-pinis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="https://twitter.com/VPVasP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://itchiovp.itch.io/" target="blank"><img align="center" src="https://cdn2.steamgriddb.com/icon_thumb/8b33ab221257b074d1d967042ad1d9d0.png" alt="itch.io" height="30" width="40" /></a> 
   <a href="mailto:vasilhspinis@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="email" height="30" width="40" /></a>
-
+  
 
 ## Programming Languages, Tools and Engines:
 [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" height="50" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
