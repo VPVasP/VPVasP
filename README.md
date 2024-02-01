@@ -14,7 +14,7 @@
 ## 💻Skills
 
 - Proficient in C#(Console,WPF, and well versed at the Unity API.
-- Fluent in C++, Python, HTML5, XAML, XML, JSON, and the Unreal Game Engine.
+- Fluent in C++, Python, HTML5,Java, XAML, XML, JSON, and the Unreal Game Engine.
 - Highly skilled at designing fundamental mechanics for video games.
 
 <h3 align="left">Get in touch:</h3>
@@ -30,6 +30,7 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C# Logo" width="50" height="50" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" width="50" height="50" />](https://isocpp.org/)
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50" />
+<img src="https://static-00.iconduck.com/assets.00/java-icon-2048x2048-yxty4s2p.png" alt="Java Logo" width="50" height="50" />
 <img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="Unity Logo" width="50" height="50" />
 <img src="https://img.icons8.com/color/452/unreal-engine.png" alt="Unreal Engine Logo" width="50" height="50" />
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50" />](https://git-scm.com/)
