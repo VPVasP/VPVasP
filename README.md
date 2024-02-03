@@ -13,10 +13,9 @@
 
 ## 💻Skills
 
-- Proficient in C#(Console,WPF, and well versed at the Unity API.
-- Fluent in C++, Python, HTML5,Java, XAML, XML, JSON, and the Unreal Game Engine.
-- Highly skilled at designing fundamental mechanics for video games.
-
+- Proficient in C# and well versed at the Unity API.
+- Fluent in HTML5, Data Formats(XML,JSON), Python, C# Desktop Development(WPF,XAML), C# Console Development.
+- Familiar with foundational concepts in C++,Java,Unreal Engine,Blueprints(Unreal Engine)
 <h3 align="left">Get in touch:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/vasilhs-pinis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
