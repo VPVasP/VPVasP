@@ -13,7 +13,7 @@
 
 ## 💻Skills
 
-- Proficient in C# and well versed at the Unity API.
+- Proficient in C# in the Unity Engine and well versed at the Unity API.
 - Fluent in HTML5, Data Formats(XML,JSON), Python, C# Desktop Development(WPF,XAML), C# Console Development.
 - Familiar with foundational concepts in C++,Java,Unreal Engine,Blueprints(Unreal Engine)
 <h3 align="left">Get in touch:</h3>
