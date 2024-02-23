@@ -14,7 +14,7 @@
 ## 💻Skills
 
 - Proficient in C# in the Unity Engine and well versed at the Unity API.
-- Fluent in HTML5, Data Formats(XML,JSON), Python, C# Desktop Development(WPF,XAML), C# Console Development.
+- Fluent in HTML5, Data Formats(XML,JSON), Python, C# Desktop Development(WPF,XAML,XBAP), C# Console Development,C# Web Development(Razor WebAssembly).
 - Familiar with foundational concepts in C++,Java,Unreal Engine,Blueprints(Unreal Engine)
 <h3 align="left">Get in touch:</h3>
 <p align="left">
