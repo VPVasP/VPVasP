@@ -6,7 +6,7 @@
         self.location ="Athens,Greece"      
         def say_something(self):
         print("Thanks for checking my Github Profile!")
-👋 I'm Vasilis, a Third year student at SAE Institute Athens studying for a Bachelor of Science with Honors in Computer Programming and Game Development. I am a passionate Software,Games and Web Developer based in Athens, Greece.
+👋  I'm Vasilis, a Junior Programmer at Futura Games, where I am currently doing an internship. I'm also a third-year Computer Programming and Game Development student at SAE Institute Athens. I am a passionate Software, Games, and Web Developer based in Athens, Greece.
 ## 🎓Education
 
 - Currently studying BSc (HONS) Computer Programming and Game Development at SAE Institute Athens.
