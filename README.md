@@ -13,9 +13,21 @@
 
 ## 💻Skills
 
-- Proficient in C# in the Unity Engine and well versed at the Unity API.
-- Fluent in HTML5, Data Formats(XML,JSON), Python, C# Desktop Development(WPF,XAML,XBAP), C# Console Development,C# Web Development(Razor WebAssembly), ASP.NET Core.
-- Familiar with foundational concepts in C++,Java,Unreal Engine,Blueprints(Unreal Engine)
+- Proficient in C# within the Unity Engine and well versed at the Unity API.
+- Skilled in implementing Game Mechanics, User Interfaces, and Backend Systems.
+- Good Knowledge in data formats such as XML and JsonUtility within Unity.
+- Fluent in Multiplayer Solutions Such as Photon, Netcode For Gameobjects.
+- Adept at creating Tools within the Unity Engine.
+- Proficient in C# Desktop Development With Windows Presentation Foundation and XAML.
+- Fluent in C# Web Development (Razor WebAssembly), ASP.NET Core.
+- Proficient in C# Console Development in .NET,.NET Core.
+- Good Knowledge in data formats such as XML and JSON.
+- Knowledgeable in Databases such as SQL.
+- Fluent in HTML5,CSS, JavaScript and PHP.
+- Familiar with foundational concepts in C++,Python,Java,Unreal Engine,Blueprints(Unreal Engine)
+
+
+
 <h3 align="left">Get in touch:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/vasilhs-pinis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
