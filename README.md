@@ -12,7 +12,7 @@ Throughout my studies, I've completed projects in professional work settings , w
 From creating games and applications to developing web solutions. I've honored my skills in various programming languages, tools, engines and  technologies.
 ## 🎓Education
 
-- Currently Enrolled as a Third Year Student as SAE Institute Athens, Greece. where am I studying for a Bachelors of Science with Honors in Computer Programming and Game Development. Through my studies I've gained hands on Experience in Programming with Languages Such as C# and C++ and in Game Development using Unity Engine and Unreal Engine.
+- Currently Enrolled as a Third Year Student as SAE Institute Athens, Greece where am I studying for a Bachelors of Science with Honors in Computer Programming and Game Development. Through my studies I've gained hands on Experience in Programming with Languages Such as C# and C++ and in Game Development using Unity Engine and Unreal Engine.
 
 ## 💻Skills
 
