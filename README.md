@@ -6,10 +6,14 @@
         self.location ="Athens,Greece"      
         def say_something(self):
         print("Thanks for checking my Github Profile!")
- I'm Vasilis, a Junior Programmer at Futura Games, I'm also a third-year Computer Programming and Game Development student at SAE Institute Athens. I am a passionate Software, Games, and Web Developer based in Athens, Greece.
+I am Vasilis, currently in my third and final year at SAE Institute Athens studying for a Bachelor of Science with Honors in
+Computer Programming and Game Development. I am a passionate Software, Games and Web Developer based in Athens, Greece.
+Throughout my studies, I've completed projects in professional work settings , within the college curriculum and independently demonstrating my versatility and passion for programming and development.
+From creating games and applications to developing web solutions. I've honored my skills in various programming languages, tools engines and  technologies.
 ## 🎓Education
 
-- Currently studying BSc (HONS) Computer Programming and Game Development at SAE Institute Athens.
+- Currently in my third and final year at SAE Institute Athens studying for a Bachelor of Science with Honors in
+Computer Programming and Game Development.
 
 ## 💻Skills
 
@@ -18,6 +22,11 @@
 - Good Knowledge in data formats such as XML and JsonUtility within Unity.
 - Fluent in Multiplayer Solutions Such as Photon, Netcode For Gameobjects.
 - Adept at creating Tools within the Unity Engine.
+- Proficient in developing fundamental game mechanics and prototypes.
+- Skilled in creating essential game mechanics and prototypes.
+- Skilled in debugging code and resolving issues. 
+- Great in time management and resources.
+- Great communication skills for Team Work Communication in both English and Greek.
 - Proficient in C# Desktop Development With Windows Presentation Foundation and XAML.
 - Fluent in C# Web Development (Razor WebAssembly), ASP.NET Core.
 - Proficient in C# Console Development in .NET,.NET Core.
