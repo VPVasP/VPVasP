@@ -7,6 +7,8 @@
         self.location ="Athens,Greece"      
         def say_something(self):
         print("Thanks for checking my Github Profile!")
+        
+## About Me
 I am Vasilis, a passionate Software, Games and Web Developer based in Athens, Greece specializing in C# Development, .NET Technologies, and the Unity Engine with over 2 years of experience. 
 I am currently in my third and final year at SAE Institute Athens studying for a Bachelor of Science with Honors in Computer Programming and Game Development. 
 Throughout my studies, I've completed projects in professional work settings, within the college curriculum and independently demonstrating my versatility and passion for programming and development. 
