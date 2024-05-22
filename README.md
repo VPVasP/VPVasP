@@ -9,13 +9,19 @@
         print("Thanks for checking my Github Profile!")
         
 ## About Me
-I am Vasilis, a passionate Software, Games and Web Developer based in Athens, Greece specializing in C# Development, .NET Technologies, and the Unity Engine with over 2 years of experience. 
-I am currently in my third and final year at SAE Institute Athens studying for a Bachelor of Science with Honors in Computer Programming and Game Development. 
-Throughout my studies, I've completed projects in professional work settings, within the college curriculum and independently demonstrating my versatility and passion for programming and development. 
-From creating games and applications to developing web solutions. I've honored my skills in various programming languages, tools, engines and  technologies. 
+I am Vasilis, a young and passionate developer from Athens, Greece. From an early age, I loved the idea of programming and the opportunity it
+gave people to cultivate their logic and artistic nature. Ever since I created my first game back in high school I decided to follow computer
+programming as a career. After high school, I pursued a bachelor's of science degree in computer programming and games development.
+I've completed projects in professional work settings, within the college curriculum and independently demonstrating my versatility and passion for
+programming and development. From creating games and applications to developing web solutions. I've
+honored my skills in various programming languages, tools, engines and technologies.
+
 ## 🎓Education
 
-- Currently Enrolled as a Third Year Student as SAE Institute Athens, Greece where am I studying for a Bachelors of Science with Honors in Computer Programming and Game Development. Through my studies I've gained hands on Experience in Programming with Languages Such as C# and C++ and in Game Development using Unity Engine and Unreal Engine.
+- Currently Enrolled as a Third Year Student at SAE Creative Media Education Athens pursuing a bachelors of Science in Computer
+Programming and Game Development with an expected graduation date in August 2024.
+Through my studies I've gained hands on Experience in Programming with Languages Such as C# ,C++, Python, HTML, CSS, JavaScript and in
+Game Development using Unity Engine, Godot and Unreal Engine.
 
 ## 💻Skills
 
@@ -29,13 +35,13 @@ From creating games and applications to developing web solutions. I've honored m
 - Skilled in debugging code and resolving issues. 
 - Great in time management and resources.
 - Great communication skills for Team Work Communication in both English and Greek.
-- Proficient in C# Desktop Development With Windows Presentation Foundation and XAML.
+- Skilled in C# Desktop Development With Windows Presentation Foundation and XAML.
 - Fluent in C# Web Development (Razor WebAssembly), ASP.NET Core.
-- Proficient in C# Console Development in .NET,.NET Core.
+- Skilled in C# Console Development in .NET,.NET Core.
 - Good Knowledge in data formats such as XML and JSON.
 - Knowledgeable in Databases such as SQL.
 - Fluent in HTML5,CSS, JavaScript and PHP.
-- Familiar with foundational concepts in C++,Python,Java,Unreal Engine,Blueprints(Unreal Engine)
+- Familiar with foundational concepts in C++,Python,Java,Godot,Unreal Engine,Blueprints(Unreal Engine)
 
 
 
