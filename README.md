@@ -8,7 +8,7 @@
         def say_something(self):
         print("Thanks for checking my Github Profile!")
         
-## About Me
+## 🚀About Me
 I am Vasilis, a young and passionate developer from Athens, Greece. From an early age, I loved the idea of programming and the opportunity it
 gave people to cultivate their logic and artistic nature. Ever since I created my first game back in high school I decided to follow computer
 programming as a career. After high school, I pursued a bachelor's of science degree in computer programming and games development.
@@ -23,25 +23,13 @@ Programming and Game Development with an expected graduation date in August 2024
 Through my studies I've gained hands on Experience in Programming with Languages Such as C# ,C++, Python, HTML, CSS, JavaScript and in
 Game Development using Unity Engine, Godot and Unreal Engine.
 
-## 💻Skills
+## 💻Programming Languages
+- C#, C++, HTML, CSS, JavaScript, Python
+## 🎮Game Development Tools
+- Unity, Godot, Unreal Engine
+##  🛠️Software Development Tools
+- Git, GitHub, Jira
 
-- Proficient in C# within the Unity Engine and well versed at the Unity API with over 2 years of experience.
-- Skilled in implementing Game Mechanics, User Interfaces, and Backend Systems.
-- Good Knowledge in data formats such as XML and JsonUtility within Unity.
-- Fluent in Multiplayer Solutions Such as Photon, Netcode For Gameobjects.
-- Adept at creating Tools within the Unity Engine.
-- Proficient in developing fundamental game mechanics and prototypes.
-- Skilled in creating essential game mechanics and prototypes.
-- Skilled in debugging code and resolving issues. 
-- Great in time management and resources.
-- Great communication skills for Team Work Communication in both English and Greek.
-- Skilled in C# Desktop Development With Windows Presentation Foundation and XAML.
-- Fluent in C# Web Development (Razor WebAssembly), ASP.NET Core.
-- Skilled in C# Console Development in .NET,.NET Core.
-- Good Knowledge in data formats such as XML and JSON.
-- Knowledgeable in Databases such as SQL.
-- Fluent in HTML5,CSS, JavaScript and PHP.
-- Familiar with foundational concepts in C++,Python,Java,Godot,Unreal Engine,Blueprints(Unreal Engine)
 
 
 
