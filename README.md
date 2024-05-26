@@ -50,5 +50,5 @@ Game Development using Unity Engine, Godot and Unreal Engine.
 <img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="Unity Logo" width="50" height="50" />
 <img src="https://img.icons8.com/color/452/unreal-engine.png" alt="Unreal Engine Logo" width="50" height="50" />
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50" />](https://git-scm.com/)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VPVasP&show_icons=true&locale=en&layout=compact" alt="VPVasP" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VPVasP&show_icons=true&locale=en" alt="VPVasP" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VPVasP&show_icons=true&theme=merko" alt="VPVasP" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vpvasp&show_icons=true&theme=merko" alt="VPVasP" /></p>
