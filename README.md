@@ -16,13 +16,6 @@ I've completed projects in professional work settings, within the college curric
 programming and development. From creating games and applications to developing web solutions. I've
 honored my skills in various programming languages, tools, engines and technologies.
 
-## 🎓Education
-
-- Currently Enrolled as a Third Year Student at SAE Creative Media Education Athens pursuing a bachelors of Science in Computer
-Programming and Game Development with an expected graduation date in August 2024.
-Through my studies I've gained hands on Experience in Programming with Languages Such as C# ,C++, Python, HTML, CSS, JavaScript and in
-Game Development using Unity Engine, Godot and Unreal Engine.
-
 ## 💻Programming Languages
 - C#, C++, HTML, CSS, JavaScript, Python
 ## 🎮Game Development Tools
@@ -30,10 +23,7 @@ Game Development using Unity Engine, Godot and Unreal Engine.
 ##  🛠️Software Development Tools
 - Git, GitHub, Jira
 
-
-
-
-<h3 align="left">Get in touch:</h3>
+## Get in Touch
 <p align="left">
   <a href="https://www.linkedin.com/in/vasilhs-pinis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="https://twitter.com/VPVasP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
@@ -50,5 +40,6 @@ Game Development using Unity Engine, Godot and Unreal Engine.
 <img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="Unity Logo" width="50" height="50" />
 <img src="https://img.icons8.com/color/452/unreal-engine.png" alt="Unreal Engine Logo" width="50" height="50" />
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50" />](https://git-scm.com/)
+## GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VPVasP&show_icons=true&theme=merko" alt="VPVasP" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vpvasp&show_icons=true&theme=merko" alt="VPVasP" /></p>
