@@ -9,12 +9,20 @@
         print("Thanks for checking my Github Profile!")
         
 ## 🚀About Me
-I am Vasilis, a young and passionate developer from Athens, Greece. From an early age, I loved the idea of programming and the opportunity it
-gave people to cultivate their logic and artistic nature. Ever since I created my first game back in high school I decided to follow computer
-programming as a career. After high school, I pursued a bachelor's of science degree in computer programming and games development.
-I've completed projects in professional work settings, within the college curriculum and independently demonstrating my versatility and passion for
-programming and development. From creating games and applications to developing web solutions. I've
-honored my skills in various programming languages, tools, engines and technologies.
+I am Vasilis, a young and passionate developer from Athens, Greece.
+From an early age, I loved the idea of programming and the opportunity it
+gave people to cultivate their logic and artistic nature. Ever since I began my
+programming journey by creating my first game in the Unity Engine back in
+high school I decided to pursue computer programming as a career by
+expanding my skills into software development using programming
+languages such as C#, C++, Python, and more, and also in Game
+Development using Unity, Godot and Unreal Engine.
+I've completed projects in professional work settings, as a college student
+and independently demonstrating my versatility and passion for
+programming and development.
+From creating games and applications to developing web solutions. I've
+honored my skills in various programming languages, tools, engines and
+technologies. 
 
 ## 💻Programming Languages
 - C#, C++, HTML, CSS, JavaScript, Python
