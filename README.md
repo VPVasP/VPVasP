@@ -1,8 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vasilis
     def __init__(self):
         self.name = "Vasilis"
-        self.role = "Software,Games,Web Developer"
-        self.specialization = "C# Development,.NET Technologies, Unity Engine"
+        self.role = "Software Developer"
+        self.specialization = ".NET Technologies, Unity Engine"
         self.spokenLanguage = ["Greek", "English"]
         self.location ="Athens,Greece"      
         def say_something(self):
@@ -34,7 +34,6 @@ technologies.
 ## Get in Touch
 <p align="left">
   <a href="https://www.linkedin.com/in/vasilhs-pinis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://twitter.com/VPVasP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
   <a href="https://itchiovp.itch.io/" target="blank"><img align="center" src="https://cdn2.steamgriddb.com/icon_thumb/8b33ab221257b074d1d967042ad1d9d0.png" alt="itch.io" height="30" width="40" /></a> 
   <a href="mailto:vasilhspinis@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="email" height="30" width="40" /></a>
   
