@@ -13,7 +13,7 @@ I am Vasilis, a young and passionate Software Engineer, Specializing in .NET Tec
 -  Currently working as a Junior Developer at Futura Games.
 -  Enrolled as a Third Year Student at SAE Creative Media Education Athens pursuing a Bachelors of Science in Computer Programming with an expected graduation date in August 2024. 
 - I primarily work with C# and Unity, but I enjoy experimenting with various Programming Languages, Tools and Engines.
-- I 've completed projects in professional work settings, as a college student and independently demonstrating my versatility and passion for programming and development.
+- I've completed projects in professional work settings, as a college student and independently demonstrating my versatility and passion for programming and development.
 - From creating games and applications to developing web solutions. I've honored my skills in various programming languages, tools, engines and technologies.
 ## 📫Get in Touch
 <p align="left">
