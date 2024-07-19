@@ -9,8 +9,8 @@
         print("Thanks for checking my Github Profile!")
         
 ## 🚀About Me
-I am Vasilis, a young and passionate Software Engineer, Specializing in .NET Technologies and the Unity Engine based in Athens, Greece.
--  Currently working as a Junior Developer at Futura Games.
+I am Vasilis, a young and passionate Software Developer, Specializing in .NET Technologies and the Unity Engine based in Athens, Greece.
+-  Currently working as a Unity Developer at Futura Games.
 - I primarily work with C# and Unity, but I enjoy experimenting with various Programming Languages, Tools and Engines.
 - I've completed projects in professional work settings, as a college student and independently demonstrating my versatility and passion for programming and development.
 - From creating games and applications to developing web solutions. I've honored my skills in various programming languages, tools, engines and technologies.
