@@ -10,7 +10,7 @@
         
 ## 🚀About Me
 I am Vasilis, a young and passionate Software Developer, Specializing in .NET Technologies and the Unity Engine based in Athens, Greece.
--  Currently working as a Unity Developer at Futura Games.
+- Currently working as a Unity Developer at Futura Games to contribute to the development of [Shadows Are Alive](https://store.steampowered.com/app/2554930/Shadows_Are_Alive/)
 - I primarily work with C# and Unity, but I enjoy experimenting with various Programming Languages, Tools and Engines.
 - I've completed projects in professional work settings, as a college student and independently demonstrating my versatility and passion for programming and development.
 - From creating games and applications to developing web solutions. I've honored my skills in various programming languages, tools, engines and technologies.
