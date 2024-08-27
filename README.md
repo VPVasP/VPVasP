@@ -9,10 +9,11 @@
         print("Thanks for checking my Github Profile!")
         
 ## 🚀About Me
-I am Vasilis, a young and passionate Software Developer, Specializing in .NET Technologies and the Unity Engine based in Athens, Greece.
-- Currently working as a Unity Developer at Futura Games to contribute to the development of [Shadows Are Alive](https://store.steampowered.com/app/2554930/Shadows_Are_Alive/)
+I am Vasilis, a young and passionate Software Developer, specializing in .NET Technologies and the Unity Engine based in Athens, Greece.
 - I primarily work with C# and Unity, but I enjoy experimenting with various Programming Languages, Tools and Engines.
-- Checkout my  Games / Tools Development Portfolio on Itch.io: https://itchiovp.itch.io/
+- Check out [Shadows Are Alive](https://store.steampowered.com/app/2554930/Shadows_Are_Alive/) a procedurally Generated Multiplayer Horror Game on Steam. 
+- Checkout my portfolio of Games, Applications, and Tools on Itch.io: https://itchiovp.itch.io/
+- You can explore more of my work on my personal website : https://vpvasp.github.io/
 ## 📫Get in Touch
 <p align="left">
   <a href="https://www.linkedin.com/in/vasilhs-pinis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
