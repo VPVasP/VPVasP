@@ -13,9 +13,9 @@ I am Vasilis, a young and passionate Software Developer, specializing in .NET Te
 ## 🎓Education
 I have completed my education in August 2024 at SAE Athens, where I majored in Computer Programming and Games Development. This program was accredited by Middlesex University London, and I earned a Bachelor of Science (BSc) in Computer Programming and Games Development.
 ## 🛠️ Projects & Portfolio
-- Check out [Shadows Are Alive](https://store.steampowered.com/app/2554930/Shadows_Are_Alive/) a procedurally Generated Multiplayer Horror Game on Steam. 
+- Check out [Shadows Are Alive](https://store.steampowered.com/app/2554930/Shadows_Are_Alive/) a procedurally Generated Multiplayer Horror Game on Steam! 
+[<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2554930/header.jpg?t=1725466150" alt="Shadows Are Alive Logo" width="1000" height="400" />](https://store.steampowered.com/app/2554930/Shadows_Are_Alive/)
 - Checkout my portfolio of Games, Applications, and Tools on Itch.io: https://itchiovp.itch.io/
-- You can explore more of my work on my personal website: https://vpvasp.github.io/
 ## 📫Get in Touch
 <p align="left">
   <a href="https://www.linkedin.com/in/vasilhs-pinis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
