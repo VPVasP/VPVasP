@@ -1,20 +1,22 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vasilis
     def __init__(self):
-        self.name = "Vasilis"
-        self.role = "Software Developer"
-        self.specialization = ".NET Technologies, Unity Engine"
-        self.spokenLanguage = ["Greek", "English"]
+        self.name = "Vasilis Pinis"
+        self.role = "Unity & AR Developer, .NET Developer"
         self.location ="Athens,Greece"      
         def say_something(self):
         print("Thanks for checking my Github Profile!")
         
 ## 🚀About Me
-I am Vasilis, a young and passionate Software Developer, specializing in .NET Technologies and the Unity Engine based in Athens, Greece. I primarily work with C# and Unity, but I enjoy experimenting with various Programming Languages, Tools and Engines.
-## 🎓Education
-I have completed my education in August 2024 at SAE Athens, where I majored in Computer Programming and Games Development. This program was accredited by Middlesex University London, and I earned a Bachelor of Science (BSc) in Computer Programming and Games Development.
+- My primary toolset is Unity/C#, but I enjoy exploring other languages and can quickly adapt to any workflow when given the time.
+- I've got a BSc (Hons) in Computer Programming and Games Development from the Middlesex University. 
 ## 🛠️ Projects & Portfolio
-- Check out [Shadows Are Alive](https://store.steampowered.com/app/2554930/Shadows_Are_Alive/) a procedurally Generated Multiplayer Horror Game on Steam! 
-[<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2554930/header.jpg?t=1725466150" alt="Shadows Are Alive Logo" width="1000" height="400" />](https://store.steampowered.com/app/2554930/Shadows_Are_Alive/)
+- [Shadows Are Alive](https://store.steampowered.com/app/2554930/Shadows_Are_Alive/) a procedurally Generated Multiplayer Cozy Horror Game on Steam!
+- [Agents Rush](https://itchiovp.itch.io/agents-rush) a top down beat up game with co-op split screen functionallity.
+- [UnityDebugConsole](https://itchiovp.itch.io/unity-console-during-run-time-tool) a runtime Console that captures debug, warning and error logs in Unity play mode during runtime.
+- [NPCDialogueSystem](https://itchiovp.itch.io/25d-unity-3d-free-to-use-dialogue-system) a 2.5D Automatic Customizable NPC Dialogue System inlcuding NPC names, dialogues and audio clips.
+- [UnityPrefabSpawner](https://itchiovp.itch.io/25d-unity-3d-free-to-use-dialogue-system) a Unity Prefab Spawner with features for color, scale, naming, folder saving, positioning, collider, scripting and taggiging using JSONUtility.
+- [Chess Candidates 2024 Info](https://github.com/VPVasP/Chess-Candidates-MockUp-ASP.NET-Core) a project that displays all the info of the players who played in the Fide Chess Candidates Tourtament of 2024.
+- [Google Docs Clone](https://github.com/VPVasP/ASP.NET-Core-DocsMockup) a Google Docs-like application using ASP.NET Core with TinyMCE and SQL Database for data storage.
 - Check out my portfolio of Games, Applications, and Tools on Itch.io: https://itchiovp.itch.io/
 ## 📫Get in Touch
 <p align="left">
