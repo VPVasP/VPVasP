@@ -18,6 +18,7 @@
 - [Chess Candidates 2024 Info](https://github.com/VPVasP/Chess-Candidates-MockUp-ASP.NET-Core) a project that displays all the info of the players who played in the Fide Chess Candidates Tourtament of 2024.
 - [Google Docs Clone](https://github.com/VPVasP/ASP.NET-Core-DocsMockup) a Google Docs-like application using ASP.NET Core with TinyMCE and SQL Database for data storage.
 - [Educational Maths Game Thesis](https://drive.google.com/file/d/1x48DGMnluWQ9f4wFmYcjZOK6yJAY3Th_/view?usp=sharing) my thesis project with the subject "Developing An Educational Maths Game Number Navigators".
+- [Augmented Reality Ancient Statues](https://itchiovp.itch.io/augmented-reality-ancient-statues) An augmented reality app that allows users to scan any surface to reveal four rotating statues, each accompanied by its name and a brief description.
 - Check out my portfolio of Games, Applications, and Tools on Itch.io: https://itchiovp.itch.io/
 ## 📫Get in Touch
 <p align="left">
