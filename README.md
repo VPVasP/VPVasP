@@ -5,7 +5,7 @@
         self.location ="Athens,Greece"      
         def say_something(self):
         print("Thanks for checking my Github Profile!")
-        
+
 ## 🚀About Me
 - My primary toolset is Unity/C#, but I enjoy exploring other languages and can quickly adapt to any workflow when given the time.
 - I've got a BSc (Hons) in Computer Programming and Games Development from the Middlesex University. 
@@ -24,7 +24,11 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/vasilhs-pinis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="mailto:vasilhspinis@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="email" height="30" width="40" /></a>
-  
+
+## 👀 Profile Views
+  <p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=VPVasP&label=Profile%20views&color=0e75b6&style=flat" alt="VPVasP" /> 
+</p>
 ## 📈 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VPVasP&show_icons=true&theme=merko" alt="VPVasP" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vpvasp&show_icons=true&theme=merko" alt="VPVasP" /></p>
