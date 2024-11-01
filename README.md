@@ -1,25 +1,26 @@
 <div align="center">
   <h2>
-    <strong> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vasilis, a Games Programmer and Software Developer</strong>
+    <strong> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vasilis, a Games Programmer and Software Developer.</strong>
   </h2>
 </div>
 
 <p align="center">
   <a href="https://itchiovp.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Itch.io-%23a00000?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
+    <img src="https://img.shields.io/badge/Itch.io-%23FF8C00?style=for-the-badge&logo=itch.io&logoColor=white&color=FF8C00" alt="Itch.io" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/VPVasP" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@VpvYoutube" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23a00000?style=for-the-badge&logo=youtube&logoColor=white&color=a00000" alt="YouTube" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vasilhs-pinis/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077b5" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:vasilhspinis@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-vasilhspinis@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-
 
 <table align="center">
   <tr>
@@ -31,3 +32,4 @@
     </td>
   </tr>
 </table>
+
