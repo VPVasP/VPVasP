@@ -1,35 +1,27 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vasilis
-    def __init__(self):
-        self.name = "Vasilis Pinis"
-        self.role = "Unity & AR Developer, .NET Developer"
-        self.location ="Athens,Greece"      
-        def say_something(self):
-        print("Thanks for checking my Github Profile!")
+<div align="center">
+  <strong> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vasilis, a Games Programmer and Software Developer.</strong>
+  <br><br>
+</div>
 
-## 🚀About Me
-- My primary toolset is Unity/C#, but I enjoy exploring other languages and can quickly adapt to any workflow when given the time.
-- I've got a BSc (Hons) in Computer Programming and Games Development from the Middlesex University. 
-## 🛠️ Projects & Portfolio
-- [Shadows Are Alive](https://store.steampowered.com/app/2554930/Shadows_Are_Alive/) a procedurally Generated Multiplayer Cozy Horror Game on Steam!
-- [Agents Rush](https://itchiovp.itch.io/agents-rush) a top down beat up game with co-op split screen functionallity.
-- [UnityDebugConsole](https://itchiovp.itch.io/unity-console-during-run-time-tool) a runtime Console that captures debug, warning and error logs in Unity play mode during runtime.
-- [NPCDialogueSystem](https://itchiovp.itch.io/25d-unity-3d-free-to-use-dialogue-system) a 2.5D Automatic Customizable NPC Dialogue System inlcuding NPC names, dialogues and audio clips.
-- [UnityPrefabSpawner](https://itchiovp.itch.io/25d-unity-3d-free-to-use-dialogue-system) a Unity Prefab Spawner with features for color, scale, naming, folder saving, positioning, collider, scripting and taggiging using JSONUtility.
-- [Chess Candidates 2024 Info](https://github.com/VPVasP/Chess-Candidates-MockUp-ASP.NET-Core) a project that displays all the info of the players who played in the Fide Chess Candidates Tourtament of 2024.
-- [Google Docs Clone](https://github.com/VPVasP/ASP.NET-Core-DocsMockup) a Google Docs-like application using ASP.NET Core with TinyMCE and SQL Database for data storage.
-- [Educational Maths Game Thesis](https://drive.google.com/file/d/1x48DGMnluWQ9f4wFmYcjZOK6yJAY3Th_/view?usp=sharing) my thesis project with the subject "Developing An Educational Maths Game Number Navigators".
-- [Augmented Reality Ancient Statues](https://itchiovp.itch.io/augmented-reality-ancient-statues) An augmented reality app that allows users to scan any surface to reveal four rotating statues, each accompanied by its name and a brief description.
-- Check out my portfolio of Games, Applications, and Tools on Itch.io: https://itchiovp.itch.io/
-## 📫Get in Touch
-<p align="left">
-  <a href="https://www.linkedin.com/in/vasilhs-pinis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="mailto:vasilhspinis@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="email" height="30" width="40" /></a>
-
-## 👀 Profile Views
-  <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=VPVasP&label=Profile%20views&color=0e75b6&style=flat" alt="VPVasP" /> 
+<p align="center">
+  <a href="https://itchiovp.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Itch.io-%23ff69b4?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/VPVasP" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vasilhs-pinis/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:vasilhspinis@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-vasilhspinis@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-## 📈 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VPVasP&show_icons=true&theme=merko" alt="VPVasP" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vpvasp&show_icons=true&theme=merko" alt="VPVasP" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vpvasp&theme=merko" alt="VPVasP" /></p>
+
+<table align="center">
+  <tr>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=vpvasp&show_icons=true&theme=merko" alt="VPVasP" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vpvasp&theme=merko" alt="VPVasP" /></td>
+  </tr>
+</table>
+
