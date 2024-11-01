@@ -1,6 +1,6 @@
 <div align="center">
   <h2>
-    <strong> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vasilis, a Games Programmer and Software Developer.</strong>
+    <strong> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vasilis, a Games Programmer and Software Developer</strong>
   </h2>
 </div>
 
